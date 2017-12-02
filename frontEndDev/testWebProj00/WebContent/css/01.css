@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.basic-intro-panel{
+	border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+}
+.middle-panel{
+	border-color: green;
+    border-width: 10px;
+    border-style: solid;
+}
+.footer-state-panel{
+	border-color: pink;
+    border-width: 10px;
+    border-style: solid;
+}
+.thick-green-border {
+    border-color: gray;
+    border-width: 10px;
+    border-style: solid;
+  }
